@@ -28,7 +28,7 @@ The **NASA Data Console** is a Python-based console application that allows user
 
 3. Run the application:
     ```bash
-    python nasa_console.py
+    python main.py
     ```
 
 ## Demo
